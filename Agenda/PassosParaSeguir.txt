@@ -1,0 +1,13 @@
+Utilizei o Apache NetBeans
+
+Passo 1: Abrir o arquivo no editor de texto.
+
+Passo 2: Vai aparecer o projeto "Agenda"
+
+Passo 3: Clique no (+) para expandir os arquivos internos, começando por "Agenda", depois "Source Packages", e o "principal"
+
+Passo 4: No arquivo "principal" vai estar o projeto todo, e as classes que utilizei, no máximo são 5, 
+abra todas para ver o código inteiro.
+
+Passo 5: Ao rodar o programa irá aparecer uma agenda, com botões para inserir, editar e excluir. E também ao
+lado esquerdo a caixa relátorio dos contatos que serão adicionados. 
